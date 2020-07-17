@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######`
+threading
+
+###### Requirements with Version Specifiers ######`
+requests==2.22.0
+json5==0.9.1
+openpyxl==3.0.3
